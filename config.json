@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenctringify",
+        "uuid": 16548084,
+        "checksum": "qali5g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
